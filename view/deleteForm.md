@@ -1,5 +1,5 @@
 view/deleteForm.jsp
-
+ 
 ```jsp
 <%@page import="com.mysql.cj.Session"%>
 <%@ page contentType="text/html; charset=UTF-8"%>
