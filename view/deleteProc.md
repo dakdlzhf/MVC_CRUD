@@ -7,7 +7,7 @@ view/deleteProc.jsp
     pageEncoding="UTF-8" import="utility.*" %>
     
 <% request.setCharacterEncoding("utf-8"); %> 
-   
+    
   
     
 <%
